@@ -1,0 +1,1 @@
+This is the GitHub repository of the [RDA Working Group Optical Radiation Exposure and Visual Experience Data](https://www.rd-alliance.org/groups/optical-radiation-exposure-and-visual-experience-data-wg/).
